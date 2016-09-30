@@ -1,6 +1,6 @@
 # Traffic light
 
-Open the `index.html` in a web browser to see the traffic light.
+Open the `index.html` in a web browser to see the traffic light. You can look at it [online](https://codex-academy.github.io/traffic-light/) as well.
 
 You need to make the traffic light toggle between green, red and orange based on the values entered into the textbox on the left hand side of the screen.
 
