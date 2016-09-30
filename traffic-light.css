@@ -3,7 +3,7 @@
 #body {
     margin : 1em auto;
     padding : 1em;
-    background-color: orange;
+    background-color: #8bc54f;
     width: 50%;
     border: 0.25em grey solid;
     border-radius: 5%;
@@ -70,4 +70,7 @@
     font-family: arial;
     margin: 0.25em;
     padding: 0.25em;
+
+    border: 1px solid black;
+    border-radius: 5%;
 }
