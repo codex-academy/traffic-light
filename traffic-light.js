@@ -1,8 +1,15 @@
 
 function allLightsOff(){
-  document.querySelectorAll('.light').forEach(function(light){
-    light.classList.remove('on');
-  });
+    var lights = document.querySelectorAll('.light');
+    for (var i = 0; i < lights.length; i++) {
+        var light = lights[i];
+        light.classList.remove('on');
+    }
+
+      // document.querySelectorAll('.light').forEach(function(light){
+      //   light.classList.remove('on');
+      // });
+
 }
 
 function switchOn(className){
