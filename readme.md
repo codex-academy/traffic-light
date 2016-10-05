@@ -14,7 +14,7 @@ Use:
 
 * `go` - to switch on the green light.
 * `stop` - to switch on the red light.
-* `caution` - to switch on the green light.
+* `caution` - to switch on the red light.
 
 The value entered in the textbox is available in the `captureTrafficLightChange` function. Write your code in there.
 
